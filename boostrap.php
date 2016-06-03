@@ -79,9 +79,5 @@ function load_dependencies() {
 	include_once( __DIR__ . '/src/shortcode/class-info-box.php' );
 	require_once( __DIR__ . '/src/foundation/emojis-support.php' );
 
-	if ( is_admin() ) {
-		include_once( __DIR__ . '/src/admin/metaboxes/header.php' );
-	}
-
 	require_once( __DIR__ . '/src/class-plugin.php' );
 }

@@ -11,8 +11,6 @@
 
 namespace Fulcrum_Site;
 
-use Fulcrum\Config\Config;
-
 return array(
 
 	'plugin_activation_keys' => array(),
