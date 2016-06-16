@@ -1,0 +1,1 @@
+<span class="quote__<?php esc_attr_e( $this->atts['side'] ); ?>"><?php echo $content; ?></span>

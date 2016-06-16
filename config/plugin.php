@@ -41,5 +41,13 @@ return array(
 			'provider' => 'provider.shortcode',
 			'config'   => FULCRUM_SITE_PLUGIN_DIR . 'config/shortcodes/info-box.php',
 		),
+		'shortcode.intro'  => array(
+			'provider' => 'provider.shortcode',
+			'config'   => FULCRUM_SITE_PLUGIN_DIR . 'config/shortcodes/intro.php',
+		),
+		'shortcode.pullquote'  => array(
+			'provider' => 'provider.shortcode',
+			'config'   => FULCRUM_SITE_PLUGIN_DIR . 'config/shortcodes/pullquote.php',
+		),
 	),
 );
