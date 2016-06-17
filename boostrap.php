@@ -11,7 +11,7 @@
  * Plugin Name:     Site Specific Fulcrum Addon Plugin
  * Plugin URI:      http://hellofromtonya.com
  * Description:     Site Specific Addon for Fulcrum
- * Version:         1.0.1
+ * Version:         1.0.2
  * Author:          hellofromTonya
  * Author URI:      http://hellofromtonya.com
  * Text Domain:     fulcrum_site
